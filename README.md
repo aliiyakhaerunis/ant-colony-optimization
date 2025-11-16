@@ -17,8 +17,6 @@ Provinsi yang menjadi node pada peta:
 | 4    | Yogyakarta   | DI Yogyakarta          |
 | 5    | Surabaya     | Jawa Timur             |
 
-(*Silakan sesuaikan jika data/urutan berbeda di notebook*)
-
 ## 🧠 Metode: Ant Colony Optimization
 Konsep inti yang digunakan:
 
